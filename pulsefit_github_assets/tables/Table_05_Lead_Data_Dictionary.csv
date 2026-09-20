@@ -1,0 +1,14 @@
+﻿Table Name,Field Name,Data Type,Description
+Lead​,LeadID​,Text,Unique lead identifier
+Lead,LeadSource,Text,Source of lead
+Lead,CampaignName,Text,Marketing campaign name
+Lead,AssignedRep,Text,Sales representative
+Lead,FirstResponseTimeMins,Number,Time taken to respond
+Lead,LeadStage,Text,Stage in sales funnel
+Lead,TourNoShowFlag,Boolean,Indicates missed tour
+Lead,TrialNoShowFlag,Boolean,Indicates missed trial
+Lead,ConvertedToMemberFlag,Boolean,Indicates conversion
+Lead,LostReason,Text,Reason for lost lead
+Lead,EventDate,Date,Event date
+Lead,Locality,Text,Location
+Lead,LeadCreatedDate,Date,Date lead was created

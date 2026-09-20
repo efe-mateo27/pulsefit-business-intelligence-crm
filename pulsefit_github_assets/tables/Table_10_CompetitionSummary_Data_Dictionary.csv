@@ -1,0 +1,6 @@
+﻿Table Name,Field Name,Data Type,Description
+CompetitionSummary​,Locality,Text,Location
+CompetitionSummary,CompetitorCount,Number,Number of competitors
+CompetitionSummary,AvgRating,Number,Average rating
+CompetitionSummary,TotalReviews,Number,Total reviews
+CompetitionSummary,AvgTrafficScore,Number,Traffic score

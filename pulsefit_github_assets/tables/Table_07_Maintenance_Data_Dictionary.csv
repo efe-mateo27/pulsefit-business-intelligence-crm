@@ -1,0 +1,10 @@
+﻿Table Name,Field Name,Data Type,Description
+Maintenance​​,MaintenanceID​,Text,Unique maintenance record
+Maintenance,EquipmentID,Text,Equipment identifier
+Maintenance,EquipmentType,Text,Type of equipment
+Maintenance,DowntimeHours,Number,Hours equipment unavailable
+Maintenance,MaintenanceCost,Number,Cost of maintenance
+Maintenance,RepeatIssueFlag,Boolean,Indicates repeated issue
+Maintenance,Supplier,Text,Service provider
+Maintenance,EventDate,Date,Maintenance date
+Maintenance,Locality,Text,Location

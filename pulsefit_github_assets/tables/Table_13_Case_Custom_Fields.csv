@@ -1,0 +1,12 @@
+﻿Field Label,API Name,Data Type,Values
+Ticket Type,"Ticket Type c
+_ __",Picklist,"Equipment, Billing, Cleanliness,
+Overcrowding, Staff, Classes"
+Severity,"Severity c
+__",Picklist,"Low, Medium, High"
+Locality,"Locality c
+__",Picklist,"Ikeja, Lekki, Victoria Island, Eti Osa,
+Ikorodu, Amuwo Odofin, Sangotedo"
+Resolution Days,"Resolution Days c
+_ __",Number,"Number of days taken to resolve the
+case"

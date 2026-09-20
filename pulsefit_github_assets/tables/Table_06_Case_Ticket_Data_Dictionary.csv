@@ -1,0 +1,8 @@
+﻿Table Name,Field Name,Data Type,Description
+Case​,CaseID / TicketID,Text,Unique complaint identifier
+Case,TicketType,Text,Type of complaint
+Case,Severity,Text,Priority level
+Case,Locality,Text,Location of issue
+Case,ResolutionDays,Number,Days to resolve complaint
+Case,Status,Text,Complaint status
+Case,MemberID,Text,Linked member
