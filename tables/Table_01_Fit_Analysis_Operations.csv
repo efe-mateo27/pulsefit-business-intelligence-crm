@@ -1,0 +1,6 @@
+﻿Requirement,Fit,Gap,Solution
+Complaint tracking,Partial,No structured logging,Salesforce Case system
+SLA monitoring,No,No resolution tracking,ResolutionDays + Tableau charts
+Maintenance tracking,Partial,No downtime tracking,Maintenance dataset
+Operational visibility,No,No dashboards,Tableau Ops dashboard
+Decision-making,Partial,Based on assumptions,Data-driven reporting

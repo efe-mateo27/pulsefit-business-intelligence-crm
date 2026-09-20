@@ -1,0 +1,16 @@
+﻿Case Subject,Ticket Type,Severity,Locality,Status,Resolution Days
+"Treadmill broken at
+Ikeja branch",Equipment,High,Ikeja,New,3
+"Billing error on member
+account-Lekki",Billing,Medium,Lekki,In Progress,5
+"Air conditioning not
+working at Victoria
+island branch",Equipment,High,Victoria Island,Escalated,2
+"Member requesting
+refund for unused
+sessions-Lekki",Billing,Low,Lekki,Waiting on Customer,7
+"Rowing machine out of
+order at Victoria island
+branch",Equipment,Medium,Victoria Island,Resolved,4
+"Gym floor flooded at
+Ikeja branch -urgent",Cleanliness,High,Ikeja,New,1

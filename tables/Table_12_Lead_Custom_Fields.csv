@@ -1,0 +1,24 @@
+﻿Field Label,API Name,Data Type,Purpose
+Campaign Name,"Campaign Name c
+_ __",Text,"Keeps track of which campaign
+brought in the lead"
+First Response Time Mins,"First Response Time Mins c
+_ _ _ __",Number,"Tracks how quickly the rep responded
+to the enquiry"
+Tour No-Show Flag,"Tour No Show Flag c
+_ _ _ _",Checkbox,"Keeps track of whether the lead
+misses their tour appointment"
+Trial No-Show Flag,"Trial No Show Flag c
+_ _ _ _",Checkbox,"Keeps track of if the lead skipped
+their trial session"
+Converted To Member Flag,"Converted To Member Flag c
+_ _ _ __",Checkbox,"Keeps track of whether the lead
+signed up for a paid membership"
+Lost Reason,"Lost Reason c
+_ __",Picklist,Keeps track of why the lead was lost
+Event Date,"Event Date c
+_ __",Date,"Keeps track of the date of the tour or
+trial appointment"
+Locality,"Locality c
+__",Text,"Keeps track of which Lagos branch
+the lead is linked to"

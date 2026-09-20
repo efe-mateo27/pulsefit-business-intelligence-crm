@@ -1,0 +1,7 @@
+﻿Table Name,Field Name,Data Type,Description
+MemberMonthly​,MemberID,Text,Unique identifier for each member
+MemberMonthly,Month,Date,Month of record
+MemberMonthly,Locality,Text,Gym location
+MemberMonthly,CancelFlag,Boolean,Indicates if member cancelled
+MemberMonthly,MonthlyFee,Number,Fee paid by member
+MemberMonthly,CheckInsThisMonth,Number​,Number of visits in the month

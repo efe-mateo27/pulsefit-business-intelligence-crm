@@ -1,0 +1,307 @@
+{
+  "figures": [
+    {
+      "figure": 1,
+      "page": 9,
+      "file": "Fig_01_System_Architecture.png",
+      "width": 2048,
+      "height": 540
+    },
+    {
+      "figure": 2,
+      "page": 11,
+      "file": "Fig_02_ERD.png",
+      "width": 1630,
+      "height": 1099
+    },
+    {
+      "figure": 3,
+      "page": 16,
+      "file": "Fig_03_Salesforce_Object_Manager_Lead_Object.png",
+      "width": 1916,
+      "height": 772
+    },
+    {
+      "figure": 4,
+      "page": 16,
+      "file": "Fig_04_Salesforce_Opportunity_Stages_List.png",
+      "width": 1525,
+      "height": 219
+    },
+    {
+      "figure": 5,
+      "page": 16,
+      "file": "Fig_05_Salesforce_Opportunity_Pipeline_Kanban_View.png",
+      "width": 1919,
+      "height": 861
+    },
+    {
+      "figure": 6,
+      "page": 17,
+      "file": "Fig_06_Salesforce_Case_Status_Picklist_Values.png",
+      "width": 1552,
+      "height": 296
+    },
+    {
+      "figure": 7,
+      "page": 18,
+      "file": "Fig_07_Flow_1_Lead_Assignment.png",
+      "width": 1919,
+      "height": 824
+    },
+    {
+      "figure": 8,
+      "page": 19,
+      "file": "Fig_08_Flow_2_No_Show_Follow_Up.png",
+      "width": 1919,
+      "height": 866
+    },
+    {
+      "figure": 9,
+      "page": 19,
+      "file": "Fig_09_Flow_3_Equipment_Escalation.png",
+      "width": 1909,
+      "height": 819
+    },
+    {
+      "figure": 10,
+      "page": 19,
+      "file": "Fig_10_Salesforce_Flows_Active_Status.png",
+      "width": 1592,
+      "height": 489
+    },
+    {
+      "figure": 11,
+      "page": 20,
+      "file": "Fig_11_Salesforce_Cases_List_View.png",
+      "width": 1917,
+      "height": 641
+    },
+    {
+      "figure": 12,
+      "page": 20,
+      "file": "Fig_12_Salesforce_Case_Detail_Treadmill_Ikeja.png",
+      "width": 1919,
+      "height": 872
+    },
+    {
+      "figure": 13,
+      "page": 21,
+      "file": "Fig_13_PulseFit_CRM_Dashboard.png",
+      "width": 1915,
+      "height": 852
+    },
+    {
+      "figure": 14,
+      "page": 21,
+      "file": "Fig_14_Performance_Overview_Dashboard.png",
+      "width": 1304,
+      "height": 1214
+    },
+    {
+      "figure": 15,
+      "page": 22,
+      "file": "Fig_15_Community_Gym_Tournament_Banner.png",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "figure": 16,
+      "page": 23,
+      "file": "Fig_16_Sales_and_Marketing_Funnel_Dashboard.png",
+      "width": 1280,
+      "height": 719
+    },
+    {
+      "figure": 17,
+      "page": 23,
+      "file": "Fig_17_Operations_and_Experience_Dashboard.png",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "tables": [
+    {
+      "table": 1,
+      "page": 7,
+      "file": "Table_01_Fit_Analysis_Operations.png",
+      "csv": "Table_01_Fit_Analysis_Operations.csv",
+      "bbox": [
+        35.5,
+        211.5,
+        568.0,
+        334.5
+      ],
+      "rows": 6
+    },
+    {
+      "table": 2,
+      "page": 7,
+      "file": "Table_02_Sales_and_Marketing_Gap_Summary.png",
+      "csv": "Table_02_Sales_and_Marketing_Gap_Summary.csv",
+      "bbox": [
+        35.5,
+        542.5,
+        568.0,
+        660.5
+      ],
+      "rows": 6
+    },
+    {
+      "table": 3,
+      "page": 11,
+      "file": "Table_03_Member_Data_Dictionary.png",
+      "csv": "Table_03_Member_Data_Dictionary.csv",
+      "bbox": [
+        35.5,
+        518.5,
+        566.5,
+        587.5
+      ],
+      "rows": 3
+    },
+    {
+      "table": 4,
+      "page": 11,
+      "file": "Table_04_MemberMonthly_Data_Dictionary.png",
+      "csv": "Table_04_MemberMonthly_Data_Dictionary.csv",
+      "bbox": [
+        35.5,
+        621.5,
+        566.5,
+        764.5
+      ],
+      "rows": 7
+    },
+    {
+      "table": 5,
+      "page": 12,
+      "file": "Table_05_Lead_Data_Dictionary.png",
+      "csv": "Table_05_Lead_Data_Dictionary.csv",
+      "bbox": [
+        35.2,
+        47.5,
+        566.5,
+        334.5
+      ],
+      "rows": 14
+    },
+    {
+      "table": 6,
+      "page": 12,
+      "file": "Table_06_Case_Ticket_Data_Dictionary.png",
+      "csv": "Table_06_Case_Ticket_Data_Dictionary.csv",
+      "bbox": [
+        35.2,
+        368.5,
+        566.5,
+        520.5
+      ],
+      "rows": 8
+    },
+    {
+      "table": 7,
+      "page": 12,
+      "file": "Table_07_Maintenance_Data_Dictionary.png",
+      "csv": "Table_07_Maintenance_Data_Dictionary.csv",
+      "bbox": [
+        35.2,
+        554.5,
+        566.5,
+        745.5
+      ],
+      "rows": 10
+    },
+    {
+      "table": 8,
+      "page": 13,
+      "file": "Table_08_Equipment_Data_Dictionary.png",
+      "csv": "Table_08_Equipment_Data_Dictionary.csv",
+      "bbox": [
+        35.5,
+        26.5,
+        566.5,
+        82.5
+      ],
+      "rows": 3
+    },
+    {
+      "table": 9,
+      "page": 13,
+      "file": "Table_09_Campaign_Data_Dictionary.png",
+      "csv": "Table_09_Campaign_Data_Dictionary.csv",
+      "bbox": [
+        35.5,
+        116.5,
+        566.5,
+        154.5
+      ],
+      "rows": 2
+    },
+    {
+      "table": 10,
+      "page": 13,
+      "file": "Table_10_CompetitionSummary_Data_Dictionary.png",
+      "csv": "Table_10_CompetitionSummary_Data_Dictionary.csv",
+      "bbox": [
+        35.5,
+        188.5,
+        566.5,
+        301.5
+      ],
+      "rows": 6
+    },
+    {
+      "table": 11,
+      "page": 17,
+      "file": "Table_11_Case_Status.png",
+      "csv": "Table_11_Case_Status.csv",
+      "bbox": [
+        35.5,
+        26.5,
+        567.5,
+        128.5
+      ],
+      "rows": 5
+    },
+    {
+      "table": 12,
+      "page": 17,
+      "file": "Table_12_Lead_Custom_Fields.png",
+      "csv": "Table_12_Lead_Custom_Fields.csv",
+      "bbox": [
+        35.5,
+        320.5,
+        567.5,
+        570.5
+      ],
+      "rows": 9
+    },
+    {
+      "table": 13,
+      "page": 17,
+      "file": "Table_13_Case_Custom_Fields.png",
+      "csv": "Table_13_Case_Custom_Fields.csv",
+      "bbox": [
+        35.5,
+        637.5,
+        567.5,
+        768.5
+      ],
+      "rows": 5
+    },
+    {
+      "table": 14,
+      "page": 20,
+      "file": "Table_14_Sample_Cases.png",
+      "csv": "Table_14_Sample_Cases.csv",
+      "bbox": [
+        35.5,
+        71.5,
+        570.5,
+        308.5
+      ],
+      "rows": 7
+    }
+  ]
+}
