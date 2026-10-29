@@ -8,17 +8,15 @@ For this project, we designed a combined business intelligence and CRM solution 
 
 ## Team Project
 
-This was a group project completed as part of the Business Intelligence and Business Analytics module at the National College of Ireland.
-
-The project was completed by:
+This was a three-person group project completed by:
 
 - Efe Matthew Akpovwovwo
 - Adebonojo Adesayo Oluwatosin
 - Princewill Chukwuemeka Madugba
 
-The work shown in this repository was not completed by me alone. Different parts of the project were divided between team members, including the CRM implementation, sales and marketing analysis, operations analysis and dashboard development.
+The work in this repository was completed collaboratively, with different parts of the business analysis, CRM implementation, dashboard development and system design divided between the team members.
 
-My individual contribution is explained separately below.
+For this portfolio version, the project materials have been retained to show the overall solution and the contribution of each team member, while the contribution section below explains the work completed by each person.
 
 ## Business Problem
 
