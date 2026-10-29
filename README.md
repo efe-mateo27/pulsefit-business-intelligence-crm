@@ -193,9 +193,11 @@ This gives management a quick view of unresolved complaints and where service pr
 
 ![Salesforce CRM Dashboard](figures/Fig_13_PulseFit_CRM_Dashboard.png)
 
-## My Contribution
+## Team Contributions
 
-This was a team project, so I want to be clear about the parts I personally worked on.
+This was a team project, with the work divided across the Performance Overview, Sales and Marketing, CRM, and Operations areas.
+
+### Efe Matthew Akpovwovwo
 
 I was responsible for much of the work around the Performance Overview dashboard and the member performance side of the project.
 
@@ -214,7 +216,48 @@ My work included:
 - writing the initial impact and expected improvements for the Performance Overview section
 - contributing to the conclusion, limitations and future improvements
 
-The Salesforce implementation, Sales and Marketing dashboard and Operations and Experience dashboard involved substantial work from the other members of the team.
+### Princewill Chukwuemeka Madugba
+
+Princewill was responsible for much of the operations and customer experience side of the project.
+
+His work included:
+
+- defining the operational requirements around complaint handling and equipment maintenance
+- developing the SWOT and gap analysis for operational weaknesses
+- creating the fit-gap analysis linking business needs to the proposed Salesforce and Tableau solutions
+- defining the analytics requirements for the Operations and Experience dashboard
+- identifying key complaint and maintenance fields such as TicketType, Severity, ResolutionDays, DowntimeHours and RepeatIssueFlag
+- contributing to the system architecture
+- writing the technology justification for the use of Salesforce and Tableau
+- building the Operations and Experience dashboard in Tableau Public
+- separating Ticket and Maintenance records using RecordType filters
+- creating views for complaint volume, severity, resolution time, equipment downtime and maintenance cost
+- applying COUNT, SUM and AVG aggregations to support the analysis
+- adding Locality and EventDate filters for interactive analysis
+- designing the dashboard layout to separate complaint and maintenance analysis
+
+### Adebonojo Adesayo Oluwatosin
+
+Sayo was responsible for much of the sales, marketing and Salesforce CRM implementation.
+
+His work included:
+
+- writing the sales and marketing problem statement
+- defining the sales and marketing analytics requirements
+- identifying KPIs for lead funnel performance, conversion rates, no-show rates and sales representative performance
+- writing the customer integration section explaining how Salesforce supports the customer journey
+- defining the visual requirements for the Sales and Marketing dashboard
+- defining the CRM requirements and automation needs
+- defining the CRM/Ops mock dataset structure and supporting its creation with Mockaroo
+- configuring the eight-stage Salesforce Opportunity pipeline
+- configuring the six-status Case complaints pipeline
+- creating eight custom Lead fields and four custom Case fields
+- building and activating three Salesforce record-triggered flows for lead assignment, no-show re-engagement and equipment complaint escalation
+- creating six sample complaint cases in Salesforce
+- building the Salesforce CRM dashboard showing cases by status, ticket type and locality
+- building the Sales and Marketing Funnel dashboard in Tableau
+- creating the five sales and marketing charts using Lead records from the CRM/Ops dataset
+- documenting the CRM and Sales and Marketing dashboard implementation
 
 ## Data
 
